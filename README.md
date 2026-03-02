@@ -16,7 +16,7 @@ class Software Engineer:
 ## Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,c,python,mysql,html,css,gcp&theme=dark&perline=4" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,javascript,postgresql,html,css,gcp&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 
 ## Connect
