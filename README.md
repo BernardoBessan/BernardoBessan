@@ -8,7 +8,7 @@
 class Software Engineer:
     def __init__(self):
         self.name = "Bernardo Bessan"
-        self.role = "Desenvolvedor Full Stack"
+        self.role = "Full Stack developer"
         self.location = "São Carlos/Ribeirão Preto, SP - Brazil"
 ```
 
